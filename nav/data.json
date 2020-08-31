@@ -22,22 +22,16 @@
                 "desc": "全球最受程序员欢迎的开发社区"
             },
             {
-                "url": "www.csdn.net",
+                "url": "https://www.csdn.net",
                 "logo": "csdn.png",
                 "title": "CSDN",
                 "desc": "全球最大中文IT社区，为IT专业技术人员提供最全面的信息传播和服务平台"
             },
             {
-                "url": "www.cnblogs.com",
+                "url": "https://www.cnblogs.com",
                 "logo": "cnblogs.png",
                 "title": "博客园",
                 "desc": "代码改变世界"
-            },
-            {
-                "url": "http://huaban.com/",
-                "logo": "huaban.png",
-                "title": "花瓣",
-                "desc": "收集灵感,保存有用的素材"
             },
             {
                 "url": "https://www.v2ex.com",
@@ -92,7 +86,7 @@
     {
         "name": "代码托管",
         "en_name": "Information",
-        "icon": "linecons-star",
+        "icon": "linecons-database",
         "web": [
             {
                 "url": "https://github.com",
@@ -147,7 +141,7 @@
     {
         "name": "学习教程",
         "en_name": "Inspiration",
-        "icon": "linecons-lightbulb",
+        "icon": "linecons-desktop",
         "children": [
             {
                 "name": "在线视频",
@@ -303,283 +297,97 @@
         ]
     },
     {
-        "name": "常用工具",
-        "en_name": "Resources",
-        "icon": "linecons-thumbs-up",
+        "name": "设计资源",
+        "en_name": "Inspiration",
+        "icon": "linecons-lightbulb",
         "children": [
             {
-                "name": "站长工具",
-                "en_name": "Icon",
+                "name": "UI组件",
+                "en_name": "Product",
                 "web": [
                     {
-                        "url": "https://sina.lt",
-                        "logo": "sina.png",
-                        "title": "新浪短网址",
-                        "desc": "多种后缀短网址生成"
+                        "url": "https://ant.design/index-cn",
+                        "logo": "antd.png",
+                        "title": "Ant Design",
+                        "desc": "Ant Design - 一套企业级 UI 设计语言和 React 组件库"
                     },
                     {
-                        "url": "http://dwz.cn",
-                        "logo": "baidu.png",
-                        "title": "百度短网址",
-                        "desc": "百度旗下专业的网址缩短服务"
+                        "url": "https://www.antdv.com/docs/vue/introduce-cn/",
+                        "logo": "antd_vue.png",
+                        "title": "Ant Design Vue",
+                        "desc": "基于 VUE 的组件库，共享 Ant Design of React 设计工具体系"
                     },
                     {
-                        "url": "https://tool.chinaz.com",
-                        "logo": "chinaz.png",
-                        "title": "站长工具 - 站长之家",
-                        "desc": "站长工具,SEO工具,权重查询,收录查询,PR查询,ICP备案查询,whois查询,友情链接查询,反向链接查询,网站测试,IP查询,Alexa查询"
+                        "url": "https://www.iviewui.com//",
+                        "logo": "iview.png",
+                        "title": "View UI",
+                        "desc": "一套基于 Vue.js 的高质量 UI 组件库"
                     },
                     {
-                        "url": "http://whois.aliyun.com",
-                        "logo": "aliyun.png",
-                        "title": "阿里云 whois 查询",
-                        "desc": "whois查询,域名whois,域名注册信息,whois查询工具,whois信息,域名信息"
+                        "url": "https://mobile.ant.design/index-cn/",
+                        "logo": "antd_mobile.png",
+                        "title": "Ant Design Mobile",
+                        "desc": "一个基于 Preact / React / React Native 的 UI 组件库。"
                     },
                     {
-                        "url": "https://namebeta.com",
-                        "logo": "namebeta.png",
-                        "title": "NnameBeta",
-                        "desc": "国际域名搜索、域名注册、国别域名注册、域名比价"
+                        "url": "https://mand-mobile.gitee.io/docs/index.gitee.html#/zh-CN/home/",
+                        "logo": "mand_mobile.png",
+                        "title": "Mand Mobile",
+                        "desc": "面向金融场景的 Vue 移动端 UI 组件库，丰富、灵活、实用，快速搭建优质的金融类产品，让复杂的金融场景变简单"
                     },
                     {
-                        "url": "https://www.domcomp.com",
-                        "logo": "domcomp.png",
-                        "title": "Domcomp",
-                        "desc": "域名比价，Domain Name Price and Availability."
+                        "url": "https://youzan.github.io/vant/#/zh-CN/",
+                        "logo": "vant.png",
+                        "title": "Vant",
+                        "desc": "由有赞前端团队开源的轻量、可靠的移动端 Vue 组件库"
                     },
                     {
-                        "url": "http://fztool.ptcms.com",
-                        "logo": "ptcms.png",
-                        "title": "仿站工具箱",
-                        "desc": "在线仿站工具箱"
-                    },
-                    {
-                        "url": "https://tool.lusongsong.com",
-                        "logo": "seo.png",
-                        "title": "超级 SEO 外链工具",
-                        "desc": "网站自动化宣传机器/免费的超级外链工具可批量增加外链"
-                    },
-                    {
-                        "url": "http://ziyuan.baidu.com",
-                        "logo": "baidu.png",
-                        "title": "百度站长平台",
-                        "desc": "百度搜索资源平台 - 让网站更具价值"
-                    },
-                    {
-                        "url": "https://zhanzhang.sogou.com",
-                        "logo": "sogou.png",
-                        "title": "搜狗站长平台",
-                        "desc": "搜狗站长平台 - 全面掌握在搜狗搜索中的数据表现"
-                    },
-                    {
-                        "url": "http://zhanzhang.so.com",
-                        "logo": "360.png",
-                        "title": "360 站长平台",
-                        "desc": "360 站长平台 - 给网站带来更多流量和展现"
-                    },
-                    {
-                        "url": "http://www.google.cn",
-                        "logo": "google.png",
-                        "title": "Google 站长平台",
-                        "desc": "Google 网站站长 - 支持、学习、互动交流和 Search Console – Google"
-                    },
-                    {
-                        "url": "http://www.bing.com",
-                        "logo": "bing.png",
-                        "title": "Bing 网站管理员工具",
-                        "desc": "Bing 网站管理员工具"
-                    },
-                    {
-                        "url": "http://union.baidu.com",
-                        "logo": "baidu.png",
-                        "title": "百度广告联盟",
-                        "desc": "百度广告联盟为您的流量增值"
-                    },
-                    {
-                        "url": "http://www.google.com/adsense/",
-                        "logo": "google.png",
-                        "title": "Google AdSense",
-                        "desc": "Google 广告平台"
-                    },
-                    {
-                        "url": "http://tongji.baidu.com/",
-                        "logo": "baidu.png",
-                        "title": "百度统计",
-                        "desc": "百度统计 — 最大的中文网站分析平台"
-                    },
-                    {
-                        "url": "http://www.umeng.com/",
-                        "logo": "umeng.png",
-                        "title": "友盟+",
-                        "desc": "国内领先的第三方全域数据智能服务商"
-                    },
-                    {
-                        "url": "http://www.beian.miit.gov.cn/",
-                        "logo": "beian.png",
-                        "title": "ICP/IP地址/域名信息备案管理系统",
-                        "desc": "工业和信息化部ICP/IP地址/域名信息备案管理系统"
-                    },
-                    {
-                        "url": "http://beian.gov.cn/",
-                        "logo": "beian.png",
-                        "title": "全国互联网安全管理服务平台",
-                        "desc": "工业和信息化部ICP/IP地址/域名信息备案管理系统"
+                        "url": "http://frozenui.github.io/",
+                        "logo": "frozenui.png",
+                        "title": "FrozenUI",
+                        "desc": "FrozenUI 是一套基于移动端的UI库轻量、精美、遵从手机 QQ 设计规范"
                     }
                 ]
             },
             {
-                "name": "LOGO设计",
-                "en_name": "Logo Design",
+                "name": "图标字体",
+                "en_name": "UI Inspiration",
                 "web": [
                     {
-                        "url": "http://www.iconsfeed.com",
-                        "logo": "iconsfeed.png",
-                        "title": "Iconsfeed",
-                        "desc": "iOS icons gallery"
+                        "url": "https://www.iconfont.cn/",
+                        "logo": "iconfont.png",
+                        "title": "Iconfont",
+                        "desc": "阿里巴巴矢量图标库，提供矢量图标下载、在线存储、格式转换等功能"
                     },
                     {
-                        "url": "http://iosicongallery.com",
-                        "logo": "iosicongallery.png",
-                        "title": "iOS Icon Gallery",
-                        "desc": "Showcasing beautiful icon designs from the iOS App Store"
+                        "url": "http://fontawesome.com/",
+                        "logo": "fontawesomeicon.png",
+                        "title": "Font Awesome",
+                        "desc": "一套绝佳的图标字体库和 CSS 框架"
                     },
                     {
-                        "url": "https://worldvectorlogo.com",
-                        "logo": "worldvectorlogo.png",
-                        "title": "World Vector Logo",
-                        "desc": "Brand logos free to download"
+                        "url": "https://www.flaticon.com/",
+                        "logo": "flaticon.png",
+                        "title": "Flaticon",
+                        "desc": "海量扁平化免费的图标库"
                     },
                     {
-                        "url": "http://instantlogosearch.com",
-                        "logo": "InstantLogoSearch.png",
-                        "title": "Instant Logo Search",
-                        "desc": "Search & download thousands of logos instantly"
-                    }
-                ]
-            },
-            {
-                "name": "素材图库",
-                "en_name": "Graphic Design",
-                "web": [
-                    {
-                        "url": "https://www.freepik.com",
-                        "logo": "freepik.png",
-                        "title": "freepik",
-                        "desc": "More than a million free vectors, PSD, photos and free icons."
+                        "url": "https://icons8.com/",
+                        "logo": "icons8.png",
+                        "title": "icons8",
+                        "desc": "独特系统平台风格和web图标库，下载免费图标，音乐"
                     },
                     {
-                        "url": "https://wallhalla.com",
-                        "logo": "wallhalla.png",
-                        "title": "wallhalla",
-                        "desc": "Find awesome high quality wallpapers for desktop and mobile in one place."
+                        "url": "http://loading.io/",
+                        "logo": "loading.png",
+                        "title": "Loading",
+                        "desc": "制作GIF、SVG、CSS加载动画图标"
                     },
                     {
-                        "url": "https://365psd.com",
-                        "logo": "365PSD.png",
-                        "title": "365PSD",
-                        "desc": "Free PSD &amp; Graphics, Illustrations"
-                    },
-                    {
-                        "url": "https://medialoot.com",
-                        "logo": "Medialoot.png",
-                        "title": "Medialoot",
-                        "desc": "Free &amp; Premium Design Resources &mdash; Medialoot"
-                    },
-                    {
-                        "url": "http://www.58pic.com",
-                        "logo": "qiantu.png",
-                        "title": "千图网",
-                        "desc": "专注免费设计素材下载的网站"
-                    },
-                    {
-                        "url": "http://588ku.com",
-                        "logo": "qianku.png",
-                        "title": "千库网",
-                        "desc": "免费png图片背景素材下载"
-                    },
-                    {
-                        "url": "http://www.ooopic.com",
-                        "logo": "wotu.png",
-                        "title": "我图网",
-                        "desc": "我图网,提供图片素材及模板下载,专注正版设计作品交易"
-                    },
-                    {
-                        "url": "http://90sheji.com",
-                        "logo": "90sheji.png",
-                        "title": "90设计",
-                        "desc": "电商设计（淘宝美工）千图免费淘宝素材库"
-                    },
-                    {
-                        "url": "http://www.nipic.com",
-                        "logo": "nipic.png",
-                        "title": "昵图网",
-                        "desc": "原创素材共享平台"
-                    },
-                    {
-                        "url": "http://www.lanrentuku.com",
-                        "logo": "lanrentuku.png",
-                        "title": "懒人图库",
-                        "desc": "懒人图库专注于提供网页素材下载"
-                    },
-                    {
-                        "url": "http://so.ui001.com",
-                        "logo": "sousucai.png",
-                        "title": "素材搜索",
-                        "desc": "设计素材搜索聚合"
-                    },
-                    {
-                        "url": "http://psefan.com",
-                        "logo": "psefan.png",
-                        "title": "PS饭团网",
-                        "desc": "不一样的设计素材库！让自己的设计与众不同！"
-                    },
-                    {
-                        "url": "http://www.sccnn.com",
-                        "logo": "sccnn.png",
-                        "title": "素材中国",
-                        "desc": "免费素材共享平台"
-                    }
-                ]
-            },
-            {
-                "name": "PPT资源",
-                "en_name": "PPT",
-                "web": [
-                    {
-                        "url": "http://www.officeplus.cn/Template/Home.shtml",
-                        "logo": "officeplus.png",
-                        "title": "OfficePLUS",
-                        "desc": "OfficePLUS，微软Office官方在线模板网站！"
-                    },
-                    {
-                        "url": "http://www.ypppt.com/",
-                        "logo": "ypppt.png",
-                        "title": "优品PPT",
-                        "desc": "高质量的模版，而且还有PPT图表，PPT背景图等资源"
-                    },
-                    {
-                        "url": "http://www.pptplus.cn/",
-                        "logo": "pptplus.png",
-                        "title": "PPT+",
-                        "desc": "PPT加直播、录制和分享—PPT+语音内容分享平台"
-                    },
-                    {
-                        "url": "http://www.pptmind.com/",
-                        "logo": "pptmind.png",
-                        "title": "PPTMind",
-                        "desc": "分享高端ppt模板与keynote模板的数字作品交易平台"
-                    },
-                    {
-                        "url": "http://www.tretars.com/ppt-templates",
-                        "logo": "tretars.png",
-                        "title": "tretars",
-                        "desc": "The best free Mockups from the Web"
-                    },
-                    {
-                        "url": "http://ppt.500d.me/",
-                        "logo": "500d.png",
-                        "title": "5百丁",
-                        "desc": "中国领先的PPT模板共享平台"
+                        "url": "https://akveo.github.io/eva-icons/",
+                        "logo": "akveo.png",
+                        "title": "Eva Icons",
+                        "desc": "为常见操作和项目精心制作的开源UI图标。"
                     }
                 ]
             },
@@ -728,9 +536,394 @@
                 ]
             },
             {
+                "name": "设计素材",
+                "en_name": "Chrome Plug-ins",
+                "web": [
+                    {
+                        "url": "http://www.58pic.com",
+                        "logo": "qiantu.png",
+                        "title": "千图网",
+                        "desc": "专注免费设计素材下载的网站"
+                    },
+                    {
+                        "url": "http://588ku.com",
+                        "logo": "qianku.png",
+                        "title": "千库网",
+                        "desc": "免费png图片背景素材下载"
+                    },
+                    {
+                        "url": "http://www.ooopic.com",
+                        "logo": "wotu.png",
+                        "title": "我图网",
+                        "desc": "我图网,提供图片素材及模板下载,专注正版设计作品交易"
+                    },
+                    {
+                        "url": "http://huaban.com/",
+                        "logo": "huaban.png",
+                        "title": "花瓣",
+                        "desc": "收集灵感,保存有用的素材"
+                    },
+                    {
+                        "url": "http://sicangziti.com/",
+                        "logo": "sicangziti.png",
+                        "title": "私藏字体",
+                        "desc": "优质字体免费下载站"
+                    },
+                    {
+                        "url": "http://www.1ppt.com/",
+                        "logo": "1ppt.png",
+                        "title": "第一 PPT 网",
+                        "desc": "免费 PPT 模板下载"
+                    },
+                    {
+                        "url": "http://www.woodo.cn/",
+                        "logo": "woodo.png",
+                        "title": "吾道幻灯片",
+                        "desc": "全新的office生产力工具，支持演示文稿、PPT模板、协同办公，可以帮助用户轻松创建具有视觉吸引力的幻灯片"
+                    },
+                    {
+                        "url": "http://mixkit.co/",
+                        "logo": "mixkit.png",
+                        "title": "Mixkit",
+                        "desc": "免费、高质量、可商用的视频素材分享网站"
+                    },
+                    {
+                        "url": "http://images.nasa.gov/",
+                        "logo": "nasa.png",
+                        "title": "NASA Image and Video Library",
+                        "desc": "美国国家航天局的官方库，从此太空类的素材再也不是问题"
+                    },
+                    {
+                        "url": "http://wordart.com/",
+                        "logo": "wordart.png",
+                        "title": "WordArt",
+                        "desc": "文字云工具"
+                    },
+                    {
+                        "url": "http://90sheji.com",
+                        "logo": "90sheji.png",
+                        "title": "90设计",
+                        "desc": "电商设计（淘宝美工）千图免费淘宝素材库"
+                    },
+                    {
+                        "url": "http://www.nipic.com",
+                        "logo": "nipic.png",
+                        "title": "昵图网",
+                        "desc": "原创素材共享平台"
+                    },
+                    {
+                        "url": "http://so.ui001.com",
+                        "logo": "sousucai.png",
+                        "title": "素材搜索",
+                        "desc": "设计素材搜索聚合"
+                    },
+                    {
+                        "url": "http://psefan.com",
+                        "logo": "psefan.png",
+                        "title": "PS饭团网",
+                        "desc": "不一样的设计素材库！让自己的设计与众不同！"
+                    },
+                    {
+                        "url": "http://www.sccnn.com",
+                        "logo": "sccnn.png",
+                        "title": "素材中国",
+                        "desc": "免费素材共享平台"
+                    },
+                    {
+                        "url": "https://365psd.com",
+                        "logo": "365PSD.png",
+                        "title": "365PSD",
+                        "desc": "Free PSD &amp; Graphics, Illustrations"
+                    },
+                    {
+                        "url": "https://medialoot.com",
+                        "logo": "Medialoot.png",
+                        "title": "Medialoot",
+                        "desc": "Free &amp; Premium Design Resources &mdash; Medialoot"
+                    },
+                    {
+                        "url": "http://www.lanrentuku.com",
+                        "logo": "lanrentuku.png",
+                        "title": "懒人图库",
+                        "desc": "懒人图库专注于提供网页素材下载"
+                    }
+                ]
+            },
+            {
+                "name": "壁纸图库",
+                "en_name": "Graphic Design",
+                "web": [
+                    {
+                        "url": "https://wallhaven.cc/",
+                        "logo": "wallhaven.png",
+                        "title": "Wallhaven",
+                        "desc": "精选国内外高质量高清壁纸"
+                    },
+                    {
+                        "url": "https://pixabay.com/zh/",
+                        "logo": "pixabay.png",
+                        "title": "Pixabay",
+                        "desc": "免费正版高清图片素材库"
+                    },
+                    {
+                        "url": "https://www.freepik.com",
+                        "logo": "freepik.png",
+                        "title": "freepik",
+                        "desc": "More than a million free vectors, PSD, photos and free icons."
+                    },
+                    {
+                        "url": "https://wallhalla.com",
+                        "logo": "wallhalla.png",
+                        "title": "wallhalla",
+                        "desc": "Find awesome high quality wallpapers for desktop and mobile in one place."
+                    },
+                    {
+                        "url": "http://www.pexels.com/",
+                        "logo": "pexels.png",
+                        "title": "Pexels",
+                        "desc": "才华横溢的摄影作者在这里免费分享最精彩的素材照片和视频"
+                    },
+                    {
+                        "url": "http://bing.ioliu.cn/",
+                        "logo": "bing.png",
+                        "title": "必应壁纸",
+                        "desc": "必应每日高清壁纸"
+                    },
+                    {
+                        "url": "http://www.piqsels.com/",
+                        "logo": "piqsels.png",
+                        "title": "Piqsels",
+                        "desc": "精美的免版税图库"
+                    },
+                    {
+                        "url": "http://unsplash.com/",
+                        "logo": "unsplash.png",
+                        "title": "Unsplash",
+                        "desc": "质量超高的免费图片素材库，无需注册，直接下载"
+                    },
+                    {
+                        "url": "http://thestocks.im/",
+                        "logo": "thestocks.png",
+                        "title": "The Stocks",
+                        "desc": "对各大图片网站进行整合，免费优质图片下载"
+                    },
+                    {
+                        "url": "http://bz.zzzmh.cn/",
+                        "logo": "zzzmh.png",
+                        "title": "极简壁纸",
+                        "desc": "高质量精品壁纸网站"
+                    }
+                ]
+            },
+            {
+                "name": "LOGO设计",
+                "en_name": "Logo Design",
+                "web": [
+                    {
+                        "url": "http://www.iconsfeed.com",
+                        "logo": "iconsfeed.png",
+                        "title": "Iconsfeed",
+                        "desc": "iOS icons gallery"
+                    },
+                    {
+                        "url": "http://iosicongallery.com",
+                        "logo": "iosicongallery.png",
+                        "title": "iOS Icon Gallery",
+                        "desc": "Showcasing beautiful icon designs from the iOS App Store"
+                    },
+                    {
+                        "url": "https://worldvectorlogo.com",
+                        "logo": "worldvectorlogo.png",
+                        "title": "World Vector Logo",
+                        "desc": "Brand logos free to download"
+                    },
+                    {
+                        "url": "http://instantlogosearch.com",
+                        "logo": "InstantLogoSearch.png",
+                        "title": "Instant Logo Search",
+                        "desc": "Search & download thousands of logos instantly"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "常用工具",
+        "en_name": "Resources",
+        "icon": "linecons-thumbs-up",
+        "children": [
+            {
+                "name": "站长工具",
+                "en_name": "Icon",
+                "web": [
+                    {
+                        "url": "https://sina.lt",
+                        "logo": "sina.png",
+                        "title": "新浪短网址",
+                        "desc": "多种后缀短网址生成"
+                    },
+                    {
+                        "url": "http://dwz.cn",
+                        "logo": "baidu.png",
+                        "title": "百度短网址",
+                        "desc": "百度旗下专业的网址缩短服务"
+                    },
+                    {
+                        "url": "https://tool.chinaz.com",
+                        "logo": "chinaz.png",
+                        "title": "站长工具 - 站长之家",
+                        "desc": "站长工具,SEO工具,权重查询,收录查询,PR查询,ICP备案查询,whois查询,友情链接查询,反向链接查询,网站测试,IP查询,Alexa查询"
+                    },
+                    {
+                        "url": "http://whois.aliyun.com",
+                        "logo": "aliyun.png",
+                        "title": "阿里云 whois 查询",
+                        "desc": "whois查询,域名whois,域名注册信息,whois查询工具,whois信息,域名信息"
+                    },
+                    {
+                        "url": "https://namebeta.com",
+                        "logo": "namebeta.png",
+                        "title": "NnameBeta",
+                        "desc": "国际域名搜索、域名注册、国别域名注册、域名比价"
+                    },
+                    {
+                        "url": "https://www.domcomp.com",
+                        "logo": "domcomp.png",
+                        "title": "Domcomp",
+                        "desc": "域名比价，Domain Name Price and Availability."
+                    },
+                    {
+                        "url": "http://fztool.ptcms.com",
+                        "logo": "ptcms.png",
+                        "title": "仿站工具箱",
+                        "desc": "在线仿站工具箱"
+                    },
+                    {
+                        "url": "https://tool.lusongsong.com",
+                        "logo": "seo.png",
+                        "title": "超级 SEO 外链工具",
+                        "desc": "网站自动化宣传机器/免费的超级外链工具可批量增加外链"
+                    },
+                    {
+                        "url": "http://ziyuan.baidu.com",
+                        "logo": "baidu.png",
+                        "title": "百度站长平台",
+                        "desc": "百度搜索资源平台 - 让网站更具价值"
+                    },
+                    {
+                        "url": "https://zhanzhang.sogou.com",
+                        "logo": "sogou.png",
+                        "title": "搜狗站长平台",
+                        "desc": "搜狗站长平台 - 全面掌握在搜狗搜索中的数据表现"
+                    },
+                    {
+                        "url": "http://zhanzhang.so.com",
+                        "logo": "360.png",
+                        "title": "360 站长平台",
+                        "desc": "360 站长平台 - 给网站带来更多流量和展现"
+                    },
+                    {
+                        "url": "http://www.google.cn",
+                        "logo": "google.png",
+                        "title": "Google 站长平台",
+                        "desc": "Google 网站站长 - 支持、学习、互动交流和 Search Console – Google"
+                    },
+                    {
+                        "url": "http://www.bing.com",
+                        "logo": "bing.png",
+                        "title": "Bing 网站管理员工具",
+                        "desc": "Bing 网站管理员工具"
+                    },
+                    {
+                        "url": "http://union.baidu.com",
+                        "logo": "baidu.png",
+                        "title": "百度广告联盟",
+                        "desc": "百度广告联盟为您的流量增值"
+                    },
+                    {
+                        "url": "http://www.google.com/adsense/",
+                        "logo": "google.png",
+                        "title": "Google AdSense",
+                        "desc": "Google 广告平台"
+                    },
+                    {
+                        "url": "http://tongji.baidu.com/",
+                        "logo": "baidu.png",
+                        "title": "百度统计",
+                        "desc": "百度统计 — 最大的中文网站分析平台"
+                    },
+                    {
+                        "url": "http://www.umeng.com/",
+                        "logo": "umeng.png",
+                        "title": "友盟+",
+                        "desc": "国内领先的第三方全域数据智能服务商"
+                    },
+                    {
+                        "url": "http://www.beian.miit.gov.cn/",
+                        "logo": "beian.png",
+                        "title": "ICP/IP地址/域名信息备案管理系统",
+                        "desc": "工业和信息化部ICP/IP地址/域名信息备案管理系统"
+                    },
+                    {
+                        "url": "http://beian.gov.cn/",
+                        "logo": "beian.png",
+                        "title": "全国互联网安全管理服务平台",
+                        "desc": "工业和信息化部ICP/IP地址/域名信息备案管理系统"
+                    }
+                ]
+            },
+            {
+                "name": "PPT资源",
+                "en_name": "PPT",
+                "web": [
+                    {
+                        "url": "http://www.officeplus.cn/Template/Home.shtml",
+                        "logo": "officeplus.png",
+                        "title": "OfficePLUS",
+                        "desc": "OfficePLUS，微软Office官方在线模板网站！"
+                    },
+                    {
+                        "url": "http://www.ypppt.com/",
+                        "logo": "ypppt.png",
+                        "title": "优品PPT",
+                        "desc": "高质量的模版，而且还有PPT图表，PPT背景图等资源"
+                    },
+                    {
+                        "url": "http://www.pptplus.cn/",
+                        "logo": "pptplus.png",
+                        "title": "PPT+",
+                        "desc": "PPT加直播、录制和分享—PPT+语音内容分享平台"
+                    },
+                    {
+                        "url": "http://www.pptmind.com/",
+                        "logo": "pptmind.png",
+                        "title": "PPTMind",
+                        "desc": "分享高端ppt模板与keynote模板的数字作品交易平台"
+                    },
+                    {
+                        "url": "http://www.tretars.com/ppt-templates",
+                        "logo": "tretars.png",
+                        "title": "tretars",
+                        "desc": "The best free Mockups from the Web"
+                    },
+                    {
+                        "url": "http://ppt.500d.me/",
+                        "logo": "500d.png",
+                        "title": "5百丁",
+                        "desc": "中国领先的PPT模板共享平台"
+                    }
+                ]
+            },
+            {
                 "name": "在线工具",
                 "en_name": "Online Tools",
                 "web": [
+                    {
+                        "url": "https://carbon.now.sh/",
+                        "logo": "carbon.png",
+                        "title": "Carbon",
+                        "desc": "在线将代码生成为图片"
+                    },
                     {
                         "url": "https://tinypng.com/",
                         "logo": "tinypng.png",
@@ -745,7 +938,7 @@
                     },
                     {
                         "url": "https://ezgif.com",
-                        "logo": "ezgif.png",
+                        "logo": "Ezgif.png",
                         "title": "ezgif",
                         "desc": "simple online GIF maker and toolset for basic animated GIF editing."
                     },
@@ -772,48 +965,6 @@
                         "logo": "gaoding.png",
                         "title": "稿定抠图",
                         "desc": "免费在线抠图软件,图片快速换背景-抠白底图"
-                    }
-                ]
-            },
-            {
-                "name": "Chrome插件",
-                "en_name": "Chrome Plug-ins",
-                "web": [
-                    {
-                        "url": "https://www.wappalyzer.com/",
-                        "logo": "wappalyzer.png",
-                        "title": "wappalyzer",
-                        "desc": "Identify technology on websites"
-                    },
-                    {
-                        "url": "http://usepanda.com/",
-                        "logo": "usepanda.png",
-                        "title": "Panda",
-                        "desc": "A smart news reader built for productivity."
-                    },
-                    {
-                        "url": "https://sizzy.co/",
-                        "logo": "sizzy.png",
-                        "title": "sizzy",
-                        "desc": "A tool for developing responsive websites crazy-fast"
-                    },
-                    {
-                        "url": "https://csspeeper.com/",
-                        "logo": "csspeeper.png",
-                        "title": "csspeeper",
-                        "desc": "Smart CSS viewer tailored for Designers."
-                    },
-                    {
-                        "url": "http://insight.io/",
-                        "logo": "insight.png",
-                        "title": "insight",
-                        "desc": "IDE-like code search and navigation, on the cloud"
-                    },
-                    {
-                        "url": "http://mustsee.earth/",
-                        "logo": "mustsee.png",
-                        "title": "mustsee",
-                        "desc": "Discover the world's most beautiful places at every opened tab."
                     }
                 ]
             },
@@ -1014,12 +1165,6 @@
                         "desc": "Loading 懒加载动画在线制作"
                     },
                     {
-                        "url": "http://loading.io/",
-                        "logo": "loading.png",
-                        "title": "Loading",
-                        "desc": "制作GIF、SVG、CSS加载动画图标"
-                    },
-                    {
                         "url": "http://github.com/justjavac/free-programming-books-zh_CN/",
                         "logo": "free_programming_books.png",
                         "title": "免费计算机编程类中文书籍",
@@ -1076,126 +1221,6 @@
                 ]
             },
             {
-                "name": "设计素材",
-                "en_name": "Chrome Plug-ins",
-                "web": [
-                    {
-                        "url": "https://www.iconfont.cn/",
-                        "logo": "iconfont.png",
-                        "title": "Iconfont",
-                        "desc": "阿里巴巴矢量图标库，提供矢量图标下载、在线存储、格式转换等功能"
-                    },
-                    {
-                        "url": "http://fontawesome.com/",
-                        "logo": "fontawesome.png",
-                        "title": "Font Awesome",
-                        "desc": "一套绝佳的图标字体库和 CSS 框架"
-                    },
-                    {
-                        "url": "https://www.flaticon.com/",
-                        "logo": "flaticon.png",
-                        "title": "Flaticon",
-                        "desc": "海量扁平化免费的图标库"
-                    },
-                    {
-                        "url": "https://icons8.com/",
-                        "logo": "icons8.png",
-                        "title": "icons8",
-                        "desc": "独特系统平台风格和web图标库，下载免费图标，音乐"
-                    },
-                    {
-                        "url": "http://www.58pic.com/",
-                        "logo": "58pic.png",
-                        "title": "千图网",
-                        "desc": "海量原创设计模板免费下载"
-                    },
-                    {
-                        "url": "http://www.nipic.com/",
-                        "logo": "nipic.png",
-                        "title": "昵图网",
-                        "desc": "国内海量平面免费素材下载"
-                    },
-                    {
-                        "url": "http://588ku.com/",
-                        "logo": "588ku.png",
-                        "title": "千库网",
-                        "desc": "免费 png 图片背景素材下载"
-                    },
-                    {
-                        "url": "http://www.pexels.com/",
-                        "logo": "pexels.png",
-                        "title": "Pexels",
-                        "desc": "才华横溢的摄影作者在这里免费分享最精彩的素材照片和视频"
-                    },
-                    {
-                        "url": "http://bing.ioliu.cn/",
-                        "logo": "bing.png",
-                        "title": "必应壁纸",
-                        "desc": "必应每日高清壁纸"
-                    },
-                    {
-                        "url": "http://www.piqsels.com/",
-                        "logo": "piqsels.png",
-                        "title": "Piqsels",
-                        "desc": "精美的免版税图库"
-                    },
-                    {
-                        "url": "http://sicangziti.com/",
-                        "logo": "sicangziti.png",
-                        "title": "私藏字体",
-                        "desc": "优质字体免费下载站"
-                    },
-                    {
-                        "url": "http://www.1ppt.com/",
-                        "logo": "1ppt.png",
-                        "title": "第一 PPT 网",
-                        "desc": "免费 PPT 模板下载"
-                    },
-                    {
-                        "url": "http://www.woodo.cn/",
-                        "logo": "woodo.png",
-                        "title": "吾道幻灯片",
-                        "desc": "全新的office生产力工具，支持演示文稿、PPT模板、协同办公，可以帮助用户轻松创建具有视觉吸引力的幻灯片"
-                    },
-                    {
-                        "url": "http://mixkit.co/",
-                        "logo": "mixkit.png",
-                        "title": "Mixkit",
-                        "desc": "免费、高质量、可商用的视频素材分享网站"
-                    },
-                    {
-                        "url": "http://thestocks.im/",
-                        "logo": "thestocks.png",
-                        "title": "The Stocks",
-                        "desc": "对各大图片网站进行整合，免费优质图片下载"
-                    },
-                    {
-                        "url": "http://bz.zzzmh.cn/",
-                        "logo": "zzzmh.png",
-                        "title": "极简壁纸",
-                        "desc": "高质量精品壁纸网站"
-                    },
-                    {
-                        "url": "http://images.nasa.gov/",
-                        "logo": "nasa.png",
-                        "title": "NASA Image and Video Library",
-                        "desc": "美国国家航天局的官方库，从此太空类的素材再也不是问题"
-                    },
-                    {
-                        "url": "http://unsplash.com/",
-                        "logo": "unsplash.png",
-                        "title": "Unsplash",
-                        "desc": "质量超高的免费图片素材库，无需注册，直接下载"
-                    },
-                    {
-                        "url": "http://wordart.com/",
-                        "logo": "wordart.png",
-                        "title": "WordArt",
-                        "desc": "文字云工具"
-                    }
-                ]
-            },
-            {
                 "name": "效率软件",
                 "en_name": "Chrome Plug-ins",
                 "web": [
@@ -1213,7 +1238,7 @@
                     },
                     {
                         "url": "https://www.getquicker.net/",
-                        "logo": "getquicker.png",
+                        "logo": "quicker.png",
                         "title": "Quicker",
                         "desc": "为常用操作建立捷径，PC 快捷动作面板，让效率触手可及!"
                     },
@@ -1237,7 +1262,7 @@
                     },
                     {
                         "url": "http://www.faststone.org/",
-                        "logo": "faststone.png",
+                        "logo": "fscapture.png",
                         "title": "FSCapture",
                         "desc": "一个强大的，轻量级的，功能齐全的屏幕捕获工具"
                     },
@@ -1344,6 +1369,48 @@
                         "desc": "国外开源的护眼软件，通过根据时间调节屏幕颜色，减少蓝光对视力的影响"
                     }
                 ]
+            },
+            {
+                "name": "Chrome插件",
+                "en_name": "Chrome Plug-ins",
+                "web": [
+                    {
+                        "url": "https://www.wappalyzer.com/",
+                        "logo": "wappalyzer.png",
+                        "title": "wappalyzer",
+                        "desc": "Identify technology on websites"
+                    },
+                    {
+                        "url": "http://usepanda.com/",
+                        "logo": "usepanda.png",
+                        "title": "Panda",
+                        "desc": "A smart news reader built for productivity."
+                    },
+                    {
+                        "url": "https://sizzy.co/",
+                        "logo": "sizzy.png",
+                        "title": "sizzy",
+                        "desc": "A tool for developing responsive websites crazy-fast"
+                    },
+                    {
+                        "url": "https://csspeeper.com/",
+                        "logo": "csspeeper.png",
+                        "title": "csspeeper",
+                        "desc": "Smart CSS viewer tailored for Designers."
+                    },
+                    {
+                        "url": "http://insight.io/",
+                        "logo": "insight.png",
+                        "title": "insight",
+                        "desc": "IDE-like code search and navigation, on the cloud"
+                    },
+                    {
+                        "url": "http://mustsee.earth/",
+                        "logo": "mustsee.png",
+                        "title": "mustsee",
+                        "desc": "Discover the world's most beautiful places at every opened tab."
+                    }
+                ]
             }
         ]
     },
@@ -1377,7 +1444,7 @@
             },
             {
                 "url": "https://www.kuai.ma",
-                "logo": "kuai.png",
+                "logo": "kuaima.png",
                 "title": "快码",
                 "desc": "提供智能硬件、各种智能共享项目解决方案，为互联网创业者提供APP、小程序、公众号开发。"
             },
@@ -1463,7 +1530,7 @@
     },
     {
         "name": "更多导航",
-        "icon": "linecons-star",
+        "icon": "linecons-paper-plane",
         "web": [
             {
                 "url": "https://chuangzaoshi.com/",
