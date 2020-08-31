@@ -58,7 +58,7 @@
 }
 
 @media screen and (min-width:768px) {
-    .sidebar-menu.collapsed .logo-env .logo-expanded img {
+    .sidebar-menu .logo-env .logo-expanded img {
         display: inline-block;
         width: 50%;
         height: 5em;
