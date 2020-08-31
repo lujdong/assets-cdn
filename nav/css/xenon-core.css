@@ -1253,12 +1253,6 @@ body {
         text-align: center;
     }
 
-    .sidebar-menu.collapsed .logo-env .logo-collapsed img {
-        display: inline-block;
-        width: 50%;
-        height: 5em;
-    }
-
     .sidebar-menu.collapsed .logo-env .logo-expanded,
     .sidebar-menu.collapsed .logo-env .settings-icon {
         display: none
