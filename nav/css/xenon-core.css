@@ -1250,7 +1250,11 @@ body {
 
     .sidebar-menu.collapsed .logo-env .logo-collapsed {
         display: block;
-        text-align: center;
+        text-align: center
+    }
+
+    .sidebar-menu.collapsed .logo-env .logo-collapsed img {
+        display: inline-block
     }
 
     .sidebar-menu.collapsed .logo-env .logo-expanded,
