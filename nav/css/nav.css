@@ -35,6 +35,7 @@
 .xe-comment p {
     margin-bottom: 0px;
 }
+
 .overflowClip_1 {
     overflow: hidden;
     text-overflow: ellipsis;
@@ -42,6 +43,7 @@
     -webkit-line-clamp: 1;
     -webkit-box-orient: vertical;
 }
+
 .overflowClip_2 {
     overflow: hidden;
     text-overflow: ellipsis;
@@ -51,7 +53,8 @@
 }
 
 
-.submit-tag{
+.submit-tag {
     margin-top: 50px;
-
 }
+
+@media screen and (min-width:768px) {}
