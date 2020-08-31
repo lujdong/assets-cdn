@@ -56,11 +56,3 @@
 .submit-tag {
     margin-top: 50px;
 }
-
-@media screen and (min-width:768px) {
-    .sidebar-menu .logo-env .logo-expanded img {
-        display: inline-block;
-        width: 50%;
-        height: 5em;
-    }
-}
