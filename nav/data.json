@@ -228,39 +228,8 @@
                 ]
             },
             {
-                "name": "博客论坛",
-                "en_name": "UI Inspiration",
-                "web": [
-                    {
-                        "url": "https://fishc.com.cn/",
-                        "logo": "fishc.png",
-                        "title": "鱼C工作室",
-                        "desc": "鱼C工作室-免费编程视频教学|Python教学|Web开发教学|全栈开发教学|C语言教学|汇编教学|Win32开发|加密与解密|Linux教学"
-                    },
-                    {
-                        "url": "http://www.52pojie.com/",
-                        "logo": "52pojie.png",
-                        "title": "吾爱破解",
-                        "desc": "致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护"
-                    },
-                    {
-                        "url": "http://www.liaoxuefeng.com/",
-                        "logo": "liaoxuefeng.png",
-                        "title": "廖雪峰",
-                        "desc": "廖雪峰的官方网站 - 研究互联网产品和技术，提供原创中文精品教程"
-                    },
-                    {
-                        "url": "http://www.ruanyifeng.com/",
-                        "logo": "ruanyifeng.png",
-                        "title": "阮一峰",
-                        "desc": "上海财经大学世界经济博士研究生，计算机科普博主，对自由软件有着坚定不移的信念"
-                    }
-                ]
-            },
-            {
                 "name": "学习平台",
                 "en_name": "WEB Inspiration",
-                "is_hot": true,
                 "web": [
                     {
                         "url": "https://www.runoob.com/'",
@@ -742,6 +711,18 @@
                         "logo": "InstantLogoSearch.png",
                         "title": "Instant Logo Search",
                         "desc": "Search & download thousands of logos instantly"
+                    },
+                    {
+                        "url": "http://www.logaster.cn/",
+                        "logo": "logaster.png",
+                        "title": "Logaster",
+                        "desc": "在线免费创建简单logo及名片设计"
+                    },
+                    {
+                        "url": "http://www.uugai.com/",
+                        "logo": "uugai.png",
+                        "title": "U钙网",
+                        "desc": "完全免费的LOGO在线设计制作工具"
                     }
                 ]
             }
@@ -1129,12 +1110,6 @@
                         "desc": "免费在线抠图软件,图片快速换背景-抠白底图"
                     },
                     {
-                        "url": "http://www.uugai.com/",
-                        "logo": "uugai.png",
-                        "title": "U钙网",
-                        "desc": "完全免费的LOGO在线设计制作工具"
-                    },
-                    {
                         "url": "http://jakearchibald.github.io/svgomg/",
                         "logo": "svgomg.png",
                         "title": "SVGOMG",
@@ -1153,13 +1128,7 @@
                         "desc": "国内创建二维码在线应用"
                     },
                     {
-                        "url": "http://www.logaster.cn/",
-                        "logo": "logaster.png",
-                        "title": "Logaster",
-                        "desc": "在线免费创建简单logo及名片设计"
-                    },
-                    {
-                        "url": "http://www.logaster.cn/",
+                        "url": "https://icons8.com/preloaders/",
                         "logo": "preloaders.png",
                         "title": "Preloaders",
                         "desc": "Loading 懒加载动画在线制作"
