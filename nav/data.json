@@ -1062,12 +1062,6 @@
                         "desc": "免费公共图床，支持最大10MB、批量上传"
                     },
                     {
-                        "url": "http://imgchr.com/",
-                        "logo": "imgchr.png",
-                        "title": "路过图床",
-                        "desc": "安全、实用的用户脚本大全"
-                    },
-                    {
                         "url": "http://greasyfork.org/",
                         "logo": "greasyfork.png",
                         "title": "Greasy Fork",
