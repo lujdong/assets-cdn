@@ -144,6 +144,60 @@
         "icon": "linecons-desktop",
         "children": [
             {
+                "name": "开发框架",
+                "en_name": "Product",
+                "web": [
+                    {
+                        "url": "https://ice.work/",
+                        "logo": "iceworks.png",
+                        "title": "飞冰",
+                        "desc": "简单而友好的前端研发体系"
+                    },
+                    {
+                        "url": "https://weex.apache.org/",
+                        "logo": "weex.png",
+                        "title": "WEEX",
+                        "desc": "使用流行的 Web 开发体验来开发高性能原生应用的框架。"
+                    },
+                    {
+                        "url": "https://rax.js.org/",
+                        "logo": "rax.png",
+                        "title": "Rax",
+                        "desc": "快速构建多端应用"
+                    },
+                    {
+                        "url": "https://www.electronjs.org/",
+                        "logo": "electronjs.png",
+                        "title": "黑马程序员",
+                        "desc": "使用 JavaScript，HTML 和 CSS 构建跨平台的桌面应用程序"
+                    },
+                    {
+                        "url": "https://cml.js.org/",
+                        "logo": "cml.png",
+                        "title": "Chameleon 变色龙",
+                        "desc": "跨端统一解决方案"
+                    },
+                    {
+                        "url": "https://uniapp.dcloud.io/",
+                        "logo": "uni-app.png",
+                        "title": "uni-app",
+                        "desc": "一个使用 Vue.js 开发跨平台应用的前端框架"
+                    },
+                    {
+                        "url": "https://taro.aotu.io/",
+                        "logo": "taro.png",
+                        "title": "Taro",
+                        "desc": "多端统一开发解决方案"
+                    },
+                    {
+                        "url": "https://umijs.org/",
+                        "logo": "umijs.png",
+                        "title": "UmiJS",
+                        "desc": "插件化的企业级前端应用框架。"
+                    }
+                ]
+            },
+            {
                 "name": "在线视频",
                 "en_name": "Product",
                 "web": [
