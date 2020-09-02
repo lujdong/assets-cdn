@@ -425,6 +425,12 @@
                         "desc": "Photoshop不需要解释"
                     },
                     {
+                        "url": "https://icons8.com/preloaders/",
+                        "logo": "preloaders.png",
+                        "title": "Preloaders",
+                        "desc": "Loading 懒加载动画在线制作"
+                    },
+                    {
                         "url": "https://affinity.serif.com/",
                         "logo": "AffinityDesigner.png",
                         "title": "Affinity Designer",
@@ -1174,12 +1180,6 @@
                         "logo": "cli.png",
                         "title": "草料二维码",
                         "desc": "国内创建二维码在线应用"
-                    },
-                    {
-                        "url": "https://icons8.com/preloaders/",
-                        "logo": "preloaders.png",
-                        "title": "Preloaders",
-                        "desc": "Loading 懒加载动画在线制作"
                     },
                     {
                         "url": "http://github.com/justjavac/free-programming-books-zh_CN/",
