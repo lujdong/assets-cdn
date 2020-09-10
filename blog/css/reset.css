@@ -1,0 +1,45 @@
+/* 头部、底部透明 */
+#page-header,
+#footer {
+    background: transparent;
+}
+
+#page-header.post-bg {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+/* 目录名称溢出显示省略号 */
+#sidebar .sidebar-toc .toc-link {
+    display: flex;
+}
+
+
+#sidebar .sidebar-toc .toc-link .toc-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* 滚动条圆角 */
+*::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background: linear-gradient(to bottom left, rgb(47, 196, 178), rgba(10, 208, 235, 0.459));
+}
+
+
+/* 头像动画 */
+#aside_content .card-info-avatar img.avatar-img {
+    border-radius: 50%;
+}
+
+#aside_content .card-info-avatar img.avatar-img:hover {
+    transform: rotate(666turn);
+    transition-duration: 59s;
+    transition-timing-function: cubic-bezier(.34, 0, .84, 1)
+}
+
+.v[data-class=v] .txt-right {
+    display: none;
+}
