@@ -2,6 +2,7 @@
 #page-header,
 #footer,
 [data-theme='dark'] #page-header,
+[data-theme='dark'] #footer,
 [data-theme='dark'] #page-header:before {
     background: transparent;
 }
