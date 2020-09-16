@@ -43,3 +43,7 @@
 .v[data-class=v] .txt-right {
     display: none;
 }
+
+#aside_content .card-info #card-info-btn {
+    cursor: pointer;
+}
