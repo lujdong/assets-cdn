@@ -1,6 +1,8 @@
 /* 头部、底部透明 */
 #page-header,
-#footer {
+#footer,
+[data-theme='dark'] #page-header,
+[data-theme='dark'] #page-header:before {
     background: transparent;
 }
 
