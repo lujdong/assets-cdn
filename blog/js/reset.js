@@ -12,4 +12,15 @@ $(() => {
             }
         }, 100)
     }
+
+    randomBg()
 })
+
+// 随机背景图
+function randomBg() {
+    const IMG_LENGTH = 11
+    const index = Math.floor(Math.random() * IMG_LENGTH)
+    $('#web_bg').css(
+        "background-image", `url(https://cdn.jsdelivr.net/gh/lujdong/assets-cdn/blog/images/cover/${index}.jpg)`
+    )
+}
